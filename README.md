@@ -4,3 +4,4 @@
 ![s3](https://github.com/poo27nam04/Tic_Tac_Toe_Game/assets/121489585/fc6621de-8356-439e-8326-8b575510a2cf)
 ![s4](https://github.com/poo27nam04/Tic_Tac_Toe_Game/assets/121489585/79ba8fc5-72d0-4ab8-8e1b-67803e3fc1a5)
 ![s5](https://github.com/poo27nam04/Tic_Tac_Toe_Game/assets/121489585/b5b97e9b-bde3-4196-b1c5-bdd250988c09)
+![s6](https://github.com/poo27nam04/Tic_Tac_Toe_Game/assets/121489585/8907da00-d31d-4cfd-970c-a7f7d50731aa)
